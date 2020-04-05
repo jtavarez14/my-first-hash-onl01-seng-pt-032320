@@ -1,5 +1,6 @@
-def my_hash(about_me)
-  about_me = {"name" => "JeanCarlos", "age" => 28, "hometown" => "New York City"}
+def my_hash(things)
+  things = {""
+  
 end
 
 
