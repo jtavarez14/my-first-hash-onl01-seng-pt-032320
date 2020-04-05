@@ -1,5 +1,5 @@
 def my_hash(hash)
-  movies = {"drama" => "Cruel Intentions", "thriller" => "American Psycho"}
+  
 end
 
 my_hash(hash)
