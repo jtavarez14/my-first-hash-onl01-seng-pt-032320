@@ -1,5 +1,5 @@
 def my_hash(hash)
-  new = {}
+  my_hash = {}
 end
 
 my_hash(hash)
