@@ -1,8 +1,7 @@
 def my_hash(hash)
-  my_hash = {}
+ {}
 end
 
-my_hash(hash)
 
 
 def shipping_manifest
