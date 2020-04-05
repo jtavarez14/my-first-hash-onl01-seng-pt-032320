@@ -1,8 +1,8 @@
-def my_hash(movies)
+def my_hash(hash)
   movies = {"drama" => "Cruel Intentions", "thriller" => "American Psycho"}
 end
 
-my_hash(movies)
+my_hash(hash)
 
 
 def shipping_manifest
