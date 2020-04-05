@@ -3,7 +3,7 @@ def my_hash(hash)
 
  my_hash = {"key" => "value", "another key" => "another value", "yet another key" => "yet another value", "some other key" => "some other value"}
 end
-
+binding.pry
 my_hash(hash)
 
 def shipping_manifest
