@@ -1,5 +1,5 @@
 def my_hash(hash)
- new_hash = {"key" => "value", "another key" => "another value", "yet another key" => "yet another value", "some other key" => "some other value"}
+ example_hash = {"key" => "value", "another key" => "another value", "yet another key" => "yet another value", "some other key" => "some other value"}
 end
 
 my_hash(hash)
